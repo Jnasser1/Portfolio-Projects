@@ -1,0 +1,7 @@
+Cleaning HousingData.xlsx
+1. Standardize Data Format
+2. Populate the property address
+3. Populate the Address into individul columns (split column into multiple)
+4. Change "Y" and "N" values to Yes, No
+5. Remove dupliacates
+6. Delete unused columns
