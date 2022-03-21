@@ -1,0 +1,9 @@
+A news company requests a data visualisation (dashboard) that will help readers (customers)
+understand how countries have performed historically in the summer olympic games (subset of data).
+
+There is an interest in details about competitors so if you find anything interesting then 
+dont hesitate to bring that in.
+
+The main task is to show historical performance for different countries, with the possibility 
+to select your own country. (text slicer)
+
